@@ -1,4 +1,4 @@
-# Smart Street Light System using Arduin0
+# Smart Street Light System using Arduino
 
 ## 📌 Description
 This project implements a Smart Street Light System using Arduino. It uses an LDR (Light Dependent Resistor) to detect day and night conditions and a PIR sensor to detect motion. Based on these inputs, the system automatically controls the street light brightness to improve energy efficiency.
